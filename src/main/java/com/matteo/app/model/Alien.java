@@ -1,4 +1,4 @@
-package com.matteo.app;
+package com.matteo.app.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

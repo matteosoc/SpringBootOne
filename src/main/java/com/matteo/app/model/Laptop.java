@@ -1,4 +1,4 @@
-package com.matteo.app;
+package com.matteo.app.model;
 
 import org.springframework.stereotype.Component;
 
